@@ -1,1 +1,1 @@
-TinDog Project is a basic frontend web practices. 
+TinDog is a frontend practices of HTML, CSS and Bootstrap class.  
