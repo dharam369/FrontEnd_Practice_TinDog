@@ -1,1 +1,1 @@
-TinDog Starting Files
+TinDog Project is a basic frontend web practices. 
